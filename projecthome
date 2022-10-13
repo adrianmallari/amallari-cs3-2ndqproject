@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Grilled</title>
+ <link rel="stylesheet" type="text/css" href="style.css">	
+
+</head>
+	<body>
+		<header>
+			<nav>
+				<img class="imglogo" src ="img/SodiumLogo.png">
+				<a class="navbar" href="pages/gallery.html">GALLERY</a>
+				<a class="navbar" href="pages/about.html">ABOUT</a>
+				<a class="navbar" href="pages/contact.html">CONTACT</a>		
+				<a class="navbar active" href="index.html">HOME</a>
+			</nav>
+		</header>
